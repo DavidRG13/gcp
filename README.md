@@ -1,3 +1,5 @@
+[AWS](aws.md)
+
 # Google Cloud Platform
 
 ## Physical
@@ -94,7 +96,7 @@ Similar to [Elastic Block Storage](https://aws.amazon.com/ebs/)
 * Network attached
 * Boot disk for GCE instances
 * Performace scales with volume size, but slower than SSD
-* Replicated for surability
+* Replicated for durability
 * Can be resized, but still needs filesystem update in VM
 * Save image snapshots
 
